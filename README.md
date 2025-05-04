@@ -2,7 +2,7 @@
 
 Welcome to my repository where we are building a modern data warehouse using SQL Server, including ETL process, data modelling and analytics.
 
-The course used for this project is from Data with Baraa.
+The course used for this project is from Data with Baraa. I perfomed this project using the support of the Date Warehourse course. I look forward to recreating with independent data to showcase my learnings. 
 
 This project showcases the data warehousing and analytics skills I’ve developed through online courses and real-world experience. From raw sales data to actionable business insights, this work reflects my passion for using data to drive decisions that matter. 
 
