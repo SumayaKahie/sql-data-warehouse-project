@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 Welcome to my repository where we are building a modern data warehouse using SQL Server, including ETL process, data modelling and analytics.
-In this project, I demonstrated my data warehousing and analytics skills from building a datawarehouse and generating insights. 
+In this project, I demonstrated my data warehousing and analytics skills gathered from online courses and some real life experience; building a datawarehouse and generating insights stakeholders can use. 
 
 --
 ## Project Requirements
