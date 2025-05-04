@@ -8,6 +8,8 @@ This project showcases the data warehousing and analytics skills I’ve develope
 ## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering) 🔧
+Standard used for project tutorial follows this stucuture.
+"C:\Users\sumay\OneDrive\Pictures\Screenshots\Bronze, Silver, Gold.png"
 
 #### Goal
 To create a contemporary data warehouse using SQL Server to organise and structure sales data to allow for data driven decision making.
