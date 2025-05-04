@@ -9,7 +9,8 @@ This project showcases the data warehousing and analytics skills I’ve develope
 
 ### Building the Data Warehouse (Data Engineering) 🔧
 Standard used for project tutorial follows this stucuture.
-"C:\Users\sumay\OneDrive\Pictures\Screenshots\Bronze, Silver, Gold.png"
+![Bronze, Silver, Gold](https://github.com/user-attachments/assets/257bdca2-b1db-4624-a4f0-5bccb347d3b7)
+
 
 #### Goal
 To create a contemporary data warehouse using SQL Server to organise and structure sales data to allow for data driven decision making.
